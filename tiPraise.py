@@ -28,8 +28,8 @@ while True:
         "I'm going to rip your vocal \n    chords out and use them as shoelaces.",
         "You're existance is completely \n    meaningless. All you do is \n    contribute to the heat death \n    of the universe.",
         "No bitches."]
-        
-    if (name.casefold() == "no"):
+
+    if (name == "no"):
         print("Liar. Thats not your name")
     elif (name):
         print("  Hello, " + name)
