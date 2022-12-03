@@ -14,7 +14,7 @@ while True:
     print("")
 
     insults = [
-        "You are an intelligent individual.",
+        "You are an intelligent\n individual.",
         name + ", you are a pitiful \n excuse for a human being", 
         "Gek", 
         "Protozoan", 
@@ -49,16 +49,20 @@ while True:
 
     
         print("")
-        print("  You aren't even worth any more words.")
+        print(" You aren't even worth\n any more words.")
         input("")
         print("")
-        print("  You can leave now")
+        print(" You can leave now")
         input("")
         print("")
-        print("  Bye")
+        print(" Bye")
         input("")
         print("")
-        print("  Get the fuck out")
+        print(" Get the fuck out")
+        input("")
+        input("")
+        input("")
+        input("")
     else:
         print("Fuck you. You little bitch.")
         print("Enter your name now!")
