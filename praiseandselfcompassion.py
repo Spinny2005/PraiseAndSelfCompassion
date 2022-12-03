@@ -11,14 +11,15 @@ while True:
     print("")
     name = input("Please enter your name: ")
     print("")
-    
+
     insults = [
         name + ", you are a pitiful excuse for a human being", 
         "Gek", 
         "Protozoan", 
         "More of your conversation would infect my brain.", 
         "You, minion, are too saucy.", 
-        "I do wish thou were a dog, that I might love thee something."]
+        "I do wish thou were a dog, that I might love thee something.",
+        "Why am I wasting my battery talking to you..."]
 
     if (name.casefold() == "no"):
         print("Liar. Thats not your name")
