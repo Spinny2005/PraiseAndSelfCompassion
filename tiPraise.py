@@ -10,7 +10,7 @@ print("")
 input("    Press [Enter] to Start")
 while True:
     print("")
-    name = input("Please enter your name: ")
+    name = input("Your name: ")
     print("")
 
     insults = [
