@@ -20,13 +20,13 @@ while True:
         "Protozoan", 
         "More of your conversation \n    would infect my brain.", 
         "You, minion, are too saucy.", 
-        "I do wish thou were a dog, \n    that I might love thee something.",
+        "I do wish thou were a dog, \n    that I might love thee \n   something.",
         "Why am I wasting my battery \n    talking to you...",
         "Theres a reason you don't \n    love yourself",
         "You are missing a chromosome",
         "I swear to God, I'm going to \n    boil your teeth",
         "I'm going to rip your vocal \n    chords out and use them as shoelaces.",
-        "You're existance is completely \n    meaningless. All you do is \n    contribute to the heat death \n    of the universe.",
+        "Your existance is completely \n    meaningless. All you do is \n    contribute to the heat death \n    of the universe.",
         "No bitches."]
 
     if (name == "no"):

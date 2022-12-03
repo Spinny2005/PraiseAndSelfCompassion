@@ -26,7 +26,7 @@ while True:
         "You are missing a chromosome",
         "I swear to God, I'm going to boil your teeth",
         "I'm going to rip your vocal chords out and use them as shoelaces.",
-        "You're existance is completely meaningless.\n    All you do is contribute to the heat death of the universe.",
+        "Your existance is completely meaningless.\n    All you do is contribute to the heat death of the universe.",
         "No bitches."]
 
     if (name.casefold() == "no"):
