@@ -15,18 +15,18 @@ while True:
 
     insults = [
         "You are an intelligent individual.",
-        name + ", you are a pitiful \n    excuse for a human being", 
+        name + ", you are a pitiful \n excuse for a human being", 
         "Gek", 
         "Protozoan", 
-        "More of your conversation \n    would infect my brain.", 
+        "More of your conversation\n would infect my brain.", 
         "You, minion, are too saucy.", 
-        "I do wish thou were a dog, \n    that I might love thee \n   something.",
-        "Why am I wasting my battery \n    talking to you...",
-        "Theres a reason you don't \n    love yourself",
+        "I do wish thou were a dog,\n that I might love thee\n something.",
+        "Why am I wasting my battery\n talking to you...",
+        "Theres a reason you don't\n love yourself",
         "You are missing a chromosome",
-        "I swear to God, I'm going to \n    boil your teeth",
-        "I'm going to rip your vocal \n    chords out and use them as shoelaces.",
-        "Your existance is completely \n    meaningless. All you do is \n    contribute to the heat death \n    of the universe.",
+        "I swear to God, I'm going to\n boil your teeth",
+        "I'm going to rip your vocal\n chords out and use them\n as shoelaces.",
+        "Your existance is completely\n meaningless. All you do is\n contribute to the heat death\n of the universe.",
         "No bitches."]
 
     if (name == "no"):
@@ -37,12 +37,12 @@ while True:
             rand = random.randint(0,len(insults)-1)
             print("")
             if (rand == 0) and (insults[0] == "You are an intelligent individual."):
-                print("    " + insults[rand])
+                print(" " + insults[rand])
                 time.sleep(1)
-                print("    Just kidding. I lied")
+                print(" Just kidding. I lied")
                 insults.pop(rand)
             else:
-                print("    " + insults[rand])
+                print(" " + insults[rand])
                 insults.pop(rand)
             print("")
             input("  Press [Enter] for more")
