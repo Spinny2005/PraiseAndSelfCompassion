@@ -27,7 +27,9 @@ while True:
         "I swear to God, I'm going to\n boil your teeth",
         "I'm going to rip your vocal\n chords out and use them\n as shoelaces.",
         "Your existance is completely\n meaningless. All you do is\n contribute to the heat death\n of the universe.",
-        "No bitches."]
+        "No bitches.",
+        "I will use your tendons as\n chew toys for my dog",
+        "You have not so much brain\n as ear-wax"]
 
     if (name == "no"):
         print("Liar. Thats not your name")

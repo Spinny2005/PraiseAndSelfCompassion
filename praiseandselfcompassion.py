@@ -27,7 +27,9 @@ while True:
         "I swear to God, I'm going to boil your teeth",
         "I'm going to rip your vocal chords out and use them as shoelaces.",
         "Your existance is completely meaningless.\n    All you do is contribute to the heat death of the universe.",
-        "No bitches."]
+        "No bitches.",
+        "I will use your tendons as chew toys for my dog",
+        "You have not so much brain as ear-wax"]
 
     if (name.casefold() == "no"):
         print("Liar. Thats not your name")
